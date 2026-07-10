@@ -276,3 +276,16 @@ HAPPYBOOST/
 ├── images/
 ├── assets/
 └── README.md（GitHub公開手順付き）
+HAPPYBOOST/
+│
+├── index.html
+├── style.css
+├── script.js
+├── images/
+│   ├── logo.png
+│   ├── members/
+│   └── background.jpg
+├── assets/
+│   ├── sakura.png
+│   └── heart.png
+└── README.md
