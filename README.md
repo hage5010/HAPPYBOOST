@@ -254,38 +254,3 @@ TikTok
 
 </body>
 </html>
-HAPPYBOOST/
-│
-├── index.html
-├── style.css
-├── script.js
-│
-├── images/
-│   ├── logo.png
-│   ├── member1.jpg
-│   ├── hero.jpg
-│   └── ...
-│
-└── assets/
-    ├── sakura.png
-    └── heart.png
-    HAPPYBOOST/
-├── index.html
-├── style.css
-├── script.js
-├── images/
-├── assets/
-└── README.md（GitHub公開手順付き）
-HAPPYBOOST/
-│
-├── index.html
-├── style.css
-├── script.js
-├── images/
-│   ├── logo.png
-│   ├── members/
-│   └── background.jpg
-├── assets/
-│   ├── sakura.png
-│   └── heart.png
-└── README.md
